@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andsoon001
+- 👋 Hi, I’m @Andsoon001，一名AI自媒体博主
 - 👀 I’m interested in vibe coding
 
 
